@@ -1,0 +1,34 @@
+
+
+{
+  "users": [
+    {
+      "name": "Pavitra",
+      "username": "Pavitra1344",
+      "email": "pavitra@gmail.com",
+      "phone": "9090901111",
+      "id": 3
+    },
+    {
+      "name": "Hardik",
+      "username": "hardik123",
+      "email": "hardik@gmail.com",
+      "phone": "1232435678",
+      "id": 7
+    },
+    {
+      "name": "parth",
+      "username": "parth12312",
+      "email": "parth@gmail.com",
+      "phone": "9099940122",
+      "id": 8
+    },
+    {
+      "name": "Parth",
+      "username": "oartg23",
+      "email": "parth@gmail.com",
+      "phone": "23567",
+      "id": 9
+    }
+  ]
+}
